@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860534260122",
+    "project_id": "bancodispositivosmoveis",
+    "storage_bucket": "bancodispositivosmoveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860534260122:android:ac1bf5d268fd6e6e6d3a23",
+        "android_client_info": {
+          "package_name": "com.example.n2ddm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIgPQkoohCSHKrrTmzr75GfPE74nMo7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
