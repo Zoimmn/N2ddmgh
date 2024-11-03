@@ -9,7 +9,7 @@ class WineListPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Catálogo de Vinhos")),cancel
+      appBar: AppBar(title: Text("Catálogo de Vinhos")),
       body: Column(
         children: [
           Expanded(
